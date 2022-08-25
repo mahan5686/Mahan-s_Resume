@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Mahan-s_Resume/static/css/main.62b104ab.css",
-    "main.js": "/Mahan-s_Resume/static/js/main.27425d83.js",
+    "main.js": "/Mahan-s_Resume/static/js/main.122b00da.js",
     "static/js/787.03f7cce3.chunk.js": "/Mahan-s_Resume/static/js/787.03f7cce3.chunk.js",
     "static/media/pexels-pixabay-290275.jpg": "/Mahan-s_Resume/static/media/pexels-pixabay-290275.eaec32d38e56fda0bf0f.jpg",
     "static/media/dribbble_problem-solved.gif": "/Mahan-s_Resume/static/media/dribbble_problem-solved.74b1100656202402233c.gif",
@@ -9,15 +9,16 @@
     "static/media/react.png": "/Mahan-s_Resume/static/media/react.da363b94e54e6deee792.png",
     "static/media/Mama.jpg": "/Mahan-s_Resume/static/media/Mama.ac4ddb2e1d58f720882b.jpg",
     "static/media/deep.jpg": "/Mahan-s_Resume/static/media/deep.129d071716048335f9fd.jpg",
-    "static/media/mahan.jpg": "/Mahan-s_Resume/static/media/mahan.d1ea88547b5317abe07b.jpg",
+    "static/media/WhatsApp Image 2022-03-23 at 8.48.38 AM.jpg": "/Mahan-s_Resume/static/media/WhatsApp Image 2022-03-23 at 8.48.38 AM.bbd1a32d189fac06fb1a.jpg",
+    "static/media/mahan.jpg": "/Mahan-s_Resume/static/media/mahan.981b34d8b85762c47ef1.jpg",
     "static/media/close.png": "/Mahan-s_Resume/static/media/close.54c7e06e83957c32ab1d.png",
     "index.html": "/Mahan-s_Resume/index.html",
     "main.62b104ab.css.map": "/Mahan-s_Resume/static/css/main.62b104ab.css.map",
-    "main.27425d83.js.map": "/Mahan-s_Resume/static/js/main.27425d83.js.map",
+    "main.122b00da.js.map": "/Mahan-s_Resume/static/js/main.122b00da.js.map",
     "787.03f7cce3.chunk.js.map": "/Mahan-s_Resume/static/js/787.03f7cce3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.62b104ab.css",
-    "static/js/main.27425d83.js"
+    "static/js/main.122b00da.js"
   ]
 }
